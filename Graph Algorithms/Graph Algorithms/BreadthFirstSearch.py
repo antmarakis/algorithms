@@ -19,7 +19,6 @@ queue = [nodes[0]];
 while queue:
     n = queue[0];
     queue = queue[1:];
-    
     BFS(n);
     used.append(n);
 

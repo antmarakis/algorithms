@@ -8,4 +8,6 @@ A growing list of Dynamic Programming algorithms. Currently including:
 
 3. RodCutting ([Read More](https://algorithmsandstuff.wordpress.com/2017/01/10/dynamic-programming-rod-cutting/))
 
-Tutorials for the rest coming soon.
+# General Algorithms
+
+1. Parentheses_MaxLength ([Read More](https://algorithmsandstuff.wordpress.com/2017/03/31/algorithms-parentheses-max-substring-length/))

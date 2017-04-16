@@ -1,6 +1,8 @@
-# Dynamic-Programming
+# Divide and Conquer
 
-A growing list of Dynamic Programming algorithms. Currently including:
+1. FindMajorityElement
+
+# Dynamic Programming
 
 1. MaximumSubarraySum ([Read More](https://algorithmsandstuff.wordpress.com/2016/12/29/dynamic-programming-maximum-subarray-sum/))
 

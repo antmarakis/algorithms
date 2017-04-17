@@ -1,6 +1,6 @@
 # Divide and Conquer
 
-1. FindMajorityElement
+1. FindMajorityElement ([Read More](https://algorithmsandstuff.wordpress.com/2017/04/17/divide-and-conquer-find-majority-element/))
 
 # Dynamic Programming
 

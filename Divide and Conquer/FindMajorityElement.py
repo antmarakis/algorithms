@@ -35,5 +35,5 @@ def FindMajorityElement(a):
         #Return -1. We treat -1 as a non-element.
         return -1;
             
-A = [1,3,1,3,1,1,3,1]; #Our array
+A = [1, 3, 1, 3, 1, 1, 3, 1]; #Our array
 print FindMajorityElement(A);

@@ -81,7 +81,7 @@ class Trie:
                 return None; #Word doesn't exist
 
             if(i == l-1):
-                #Last char of wrod, and the node c of curr is a word
+                #Last char of word, and the node c of curr is a word
                 return curr.children[c];
 
             curr = curr.children[c]; #Move to the next level

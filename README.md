@@ -4,12 +4,12 @@
 
 # Dynamic Programming
 
-1. MaximumSubarraySum ([Read More](https://antmarakis.github.io/2017/01/13/maximum-subarray-sum/))
+1. MaximumSubarraySum ([Read More](https://antmarakis.github.io/dynamic%20programming/maximum-subarray-sum/))
 
-2. MimumumPathSum ([Read More](https://antmarakis.github.io/2017/01/05/optimal-matrix-path))
+2. MimumumPathSum ([Read More](https://antmarakis.github.io/dynamic%20programming/optimal-matrix-path))
 
-3. RodCutting ([Read More](https://antmarakis.github.io/2017/03/21/rod-cutting/))
+3. RodCutting ([Read More](https://antmarakis.github.io/dynamic%20programming/rod-cutting/))
 
 # General Algorithms
 
-1. Parentheses_MaxLength ([Read More](https://antmarakis.github.io/2017/01/21/parentheses-max-length/))
+1. Parentheses_MaxLength ([Read More](https://antmarakis.github.io/general%20algorithms/parentheses-max-length/))

@@ -1,4 +1,10 @@
 """
+We are given an nxm matrix.
+The elements in the matrix are random, positive integers.
+We want to go from the top left corner to the bottom right
+by moving only right and down (no left, up or diagonal moves).
+Our goal is to move using the minimum cost path.
+
 f(i, j) = min{ f(i-1, j), f(i, j-1) } + matrix(i, j)
 """
 
